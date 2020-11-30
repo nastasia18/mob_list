@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EditText</string>
+    <string name="Book_hint">Что хочешь прочитать?</string>
+    <string name="btn_add">Добавить</string>
+    <string name="list_book">Список книг</string>
+    <string name="serial_hint">Напиши желаемый сериал</string>
+    <string name="list_serials">Список сериалов</string>
+    <string name="list_films">Список фильмов</string>
+    <string name="fandom_notes_title">Fandom Notes</string>
+</resources>
